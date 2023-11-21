@@ -1,0 +1,17 @@
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\bin\Debug\Controlador_PrototipoMenu.dll
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\bin\Debug\Controlador_PrototipoMenu.pdb
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\bin\Debug\eCryptography.dll
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.CopyComplete
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.dll
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.CopyComplete
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.dll
+C:\Users\nancy\Desktop\Examen Final\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.pdb

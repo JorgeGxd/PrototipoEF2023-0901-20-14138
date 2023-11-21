@@ -1,0 +1,5 @@
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Modelo\bin\Debug\Modelo_PrototipoMenu.dll
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Modelo\bin\Debug\Modelo_PrototipoMenu.pdb
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.dll
+D:\Escritorio\Proyecto\proyectoads22023\Codigo\Modulos\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.pdb
